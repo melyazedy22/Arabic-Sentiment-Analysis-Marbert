@@ -83,4 +83,11 @@ You can test the model programmatically using the provided notebook:
 **Output:** `Neutral` (Confidence: 85%)
 
 ---
+## 🔗 Resources (Model, Assets & Live Demo)
+
+- **📦 Full Project Package (Model, Assets & Live Demo)**  
+  <[DRIVE Link](https://drive.google.com/drive/folders/1t8L_vb6YIbjcHqgNcuwzGrIjWI0wonBi?usp=drive_link)>
+
+> This link contains the fine-tuned MARBERT model, all utility files, assets, and access to the live Streamlit demo.
+---
 *Created by Mahmoud Elyazedy for Graduation Project*
