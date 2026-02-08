@@ -83,4 +83,4 @@ You can test the model programmatically using the provided notebook:
 **Output:** `Neutral` (Confidence: 85%)
 
 ---
-*Created by [Your Name/Team] for Graduation Project*
+*Created by Mahmoud Elyazedy for Graduation Project*
